@@ -7,12 +7,16 @@ The **Shoes Ecommerce Website** project refers to the facilities-based Nike shoe
 
 
 
-![Uploading nike shoes.png…]()
+
+
+
+
+
+![nike shoes](https://github.com/user-attachments/assets/a98bbe38-6685-42e6-82c9-e50d214a5983)
 ![nike shoes2](https://github.com/user-attachments/assets/4aebcbff-1fa1-44c1-8f90-2336c629536d)
-![Uploading nike shoes3.png…]()
-![Uploading nike shoes4.png…]()
-Uploadi![Uploading nike shoes5.png…]()
-ng nike shoes website video.mp4…
+![nike shoes3](https://github.com/user-attachments/assets/c8021269-8c26-4bcd-9420-75726de488bd)
+![nike shoes4](https://github.com/user-attachments/assets/f3d9af34-c2bb-4514-8860-8071c59611ee)
+![nike shoes5](https://github.com/user-attachments/assets/caa914fd-e5b2-4e67-8569-1d9ee27efec4)
 
 
 ### Technology Overview
