@@ -6,7 +6,16 @@ The **Shoes Ecommerce Website** project refers to the facilities-based Nike shoe
 *Please note:* Website loading times may vary. While waiting, you can explore our new blog website platform [AllBlogs](https://www.youtube.com/@Codingwithatul24).
 
 
+
+
+Uploading nike shoes website video.mp4…
+
+
 ### Technology Overview
+
+Uploading nike shoes website video.mp4…
+
+
 
 The Home Service Provider project employs a modern technology stack to deliver an efficient and user-friendly experience. Here's a brief overview of the key technologies and libraries used:
 
