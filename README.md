@@ -19,3 +19,12 @@ The Home Service Provider project employs a modern technology stack to deliver a
 - #### Start Frontend
     Use `npm run start:client` or `yarn run start:client` to start the frontend.
     Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+  # Collaborators
+  | |  |  |  |  |
+  | ------------- | ------------- | ------------- | ------------- | ------------- |
+  | Atul Kumar | [GitHub](https://github.com/atulkumarchhonker) | [Email](mailto:atulchhonker29@gmail.com) | [LinkedIn](https://www.linkedin.com/in/atul-kumar-webdeveloper/) | [Instagram](https://www.instagram.com/codingwithatul24/) |
+  | Komal | [Github]() | [Email]() | [LinkedIn]() | [Instagram]() |
+  | Ankur | [GitHub]() | [Email]() | LinkedIn | Instagram |
+  | Anshika Singh | [Github]() | [Email]() | [LinkedIn]() | [Instagram]() |
+  
