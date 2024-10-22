@@ -3,14 +3,7 @@
 ## Project Overview
 The **Shoes Ecommerce Website** project refers to the facilities-based Nike shoes offer a perfect blend of comfort, style, and performance. With innovative designs and top-quality materials, they provide excellent support for both athletes and casual wearers. Whether you're running, training, or just out for the day, Nike shoes ensure durability and a comfortable fit, making them a top choice.
 ## [Live](https://atulkumarchhonker.github.io/shoesEcommercewebsite/) demo
-*Please note:* Website loading times may vary. While waiting, you can explore our new blog website platform [AllBlogs](https://www.youtube.com/@Codingwithatul24).
-
-
-
-
-
-
-
+*Please note:* Website loading times may vary. While waiting, you can explore our new blog website platform [AllBlogs](https://www.youtube.com/@Codingwithatul24/
 
 ![nike shoes](https://github.com/user-attachments/assets/a98bbe38-6685-42e6-82c9-e50d214a5983)
 ![nike shoes2](https://github.com/user-attachments/assets/4aebcbff-1fa1-44c1-8f90-2336c629536d)
@@ -21,7 +14,7 @@ The **Shoes Ecommerce Website** project refers to the facilities-based Nike shoe
 
 ### Technology Overview
 
-Uploading nike shoes website video.mp4…
+https://github.com/user-attachments/assets/21614630-ab4c-46c1-9c03-8bb977f3bc7b
 
 
 
