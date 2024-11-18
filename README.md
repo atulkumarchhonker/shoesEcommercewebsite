@@ -34,7 +34,4 @@ The Home Service Provider project employs a modern technology stack to deliver a
   | |  |  |  |  |
   | ------------- | ------------- | ------------- | ------------- | ------------- |
   | Atul Kumar | [GitHub](https://github.com/atulkumarchhonker) | [Email](mailto:atulchhonker29@gmail.com) | [LinkedIn](https://www.linkedin.com/in/atul-kumar-webdeveloper/) | [Instagram](https://www.instagram.com/codingwithatul24/) |
-  | Komal | [Github]() | [Email]() | [LinkedIn]() | [Instagram]() |
-  | Ankur | [GitHub]() | [Email]() | LinkedIn | Instagram |
-  | Anshika Singh | [Github]() | [Email]() | [LinkedIn]() | [Instagram]() |
-  
+ 
